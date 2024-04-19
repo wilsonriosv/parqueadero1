@@ -1,0 +1,4 @@
+INSERT INTO parqueos (total_pagado, placa, fecha_hora_ingreso, fecha_hora_salida, id) VALUES (1000, 'aec346', '2024-04-11 10:00:00', '2024-04-11 11:30:00', 1);
+INSERT INTO parqueos (total_pagado, placa, fecha_hora_ingreso, fecha_hora_salida, id) VALUES (2000, 'ert456', '2024-04-11 10:00:00', '2024-04-11 11:00:00', 2);
+INSERT INTO parqueos (total_pagado, placa, fecha_hora_ingreso, fecha_hora_salida, id) VALUES (3000, 'wer234', '2024-04-11 11:00:00', '2024-04-11 14:30:00', 3);
+INSERT INTO parqueos (total_pagado, placa, fecha_hora_ingreso, fecha_hora_salida, id) VALUES (4000, 'tre432', '2024-04-11 10:00:00', '2024-04-11 16:30:00', 4);
